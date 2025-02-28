@@ -1,6 +1,7 @@
 <?php
 // Comentari afegit per a la correcció del bug
 // Comentari afegit per a la correcció del bug
+// Comentari afegit per a la correcció del bugd
 ?>
 
 
