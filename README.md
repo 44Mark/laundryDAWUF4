@@ -1,6 +1,5 @@
 # laundry management system
-Soc Alexis Boisset i soc colaborador
----
+
 ## Using Tech:
 
 * Php
@@ -11,8 +10,8 @@ Soc Alexis Boisset i soc colaborador
 * Bootstarp
 * HTML5
 * CSS3
-* Dfrtyhtgre
-* Soy el mark y soy el Propietario
+
+
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
