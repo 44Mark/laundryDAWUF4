@@ -12,7 +12,7 @@ Hola MAC!!!!! Soc Alexis Boisset i soc colaborador
 * HTML5
 * CSS3
 * Dfrtyhtgre
-* Soy el mark
+* Soy el mark y soy el Propietario
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
