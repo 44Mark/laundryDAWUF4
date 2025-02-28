@@ -1,5 +1,5 @@
 # laundry management system
-Hola MAC!!!!!
+Hola MAC!!!!! Soc Alexis Boisset i soc colaborador
 ---
 ## Using Tech:
 
